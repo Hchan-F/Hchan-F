@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Hinde !
 
-<!--
-**Hchan-F/Hchan-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Développeur en reconversion** | 🚀 **Formation autodidacte en informatique & cybersécurité**  
+📚 J’apprends en autonomie avec des ressources en ligne et des projets concrets.  
 
-Here are some ideas to get you started:
+🎯 **Technologies que j'apprends :**  
+- ✅ HTML, CSS  
+- ✅ JavaScript (en cours)  
+- 🔜 Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 **Intérêt particulier pour la cybersécurité & le développement web.**  
+
+📫 **Me contacter :** 
